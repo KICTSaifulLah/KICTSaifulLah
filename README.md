@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KICTSaifulLah
-- 👀 I’m interested in ...Data analytics and cybersecutity
-- 🌱 I’m currently learning ... Data analytics
-- 💞️ I’m looking to collaborate on ...Data analytics
+- 👀 I’m interested in ...Cybersecutity
+- 🌱 I’m currently learning ... Cybersecurity
+- 💞️ I’m looking to collaborate on ...Cybersecurity
 - 📫 How to reach me ... armayaus@ymail.com
 - 😄 Pronouns: ...he
 - ⚡ Fun fact: ... i love reading and learning new things
